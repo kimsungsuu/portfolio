@@ -29,21 +29,25 @@
 
 ## 📌 프로젝트
 ### 1. [JSP & Servlet](http://bit.ly/3Gd1DWn)
-> JSP & Servlet을 이용한 게시판 생성(개인 프로젝트)
+> JSP & Servlet을 이용한 게시판 생성(개인 프로젝트)</br>
 > </br> 기술 스택
-> </br> Java 11/ JSP / Servlet / MySQL
+> </br> Java 11/ JSP / Servlet / MySQL </br></br>
+> [프로젝트 상세 설명 참고](http://bit.ly/3Gd1DWn)
 
 ### 2. [Spring boot & JPA board](http://bit.ly/3WAHLlt)
-> Spring boot & JPA를 이용한 게시판 생성(개인 프로젝트)
+> Spring boot & JPA를 이용한 게시판 생성(개인 프로젝트)</br>
 > </br> 기술 스택
-> </br> Java 11 / Spring boot / MySQL / JPA / Gradle
+> </br> Java 11 / Spring boot / MySQL / JPA / Gradle </br></br>
+> [프로젝트 상세 설명 참고](http://bit.ly/3WAHLlt)
 
 ### 3. [Spring boot & rest API](http://bit.ly/3v98SbC)
-> Spring boot & rest API 웹페이지 생성(개인 프로젝트)
+> Spring boot & rest API 웹페이지 생성(개인 프로젝트)</br>
 > </br> 기술 스택
-> </br> Java 11 / Spring boot / Gradle
+> </br> Java 11 / Spring boot / Gradle </br></br>
+> [프로젝트 상세 설명 참고](http://bit.ly/3v98SbC)
 
 ### 4. [Algorithm](http://bit.ly/3HRZEYV)
-> Algorithm 공부
+> Algorithm 공부 </br></br>
+> [프로젝트 상세 설명 참고](http://bit.ly/3HRZEYV)
 
 
