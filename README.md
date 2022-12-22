@@ -25,29 +25,25 @@
 ##  📌 자격증
 > - 정보처리기사 자격증 소유
 > - 1종 보통 운전 면허 소유
-
-* * *
+* *
 
 ## 📌 프로젝트
-### 1. JSP & Servlet 
-> - JSP & Servlet을 이용한 게시판 생성(개인 프로젝트)
->   - http://bit.ly/3Gd1DWn
-> 기술 스택
-> Java 11/ JSP / Servlet / MySQL
+### 1. [JSP & Servlet](http://bit.ly/3Gd1DWn)
+> JSP & Servlet을 이용한 게시판 생성(개인 프로젝트)
+> </br> 기술 스택
+> </br> Java 11/ JSP / Servlet / MySQL
 
-### 2. Spring boot & JPA board
-> - Spring boot & JPA를 이용한 게시판 생성(개인 프로젝트)
->   - http://bit.ly/3WAHLlt
-> 기술 스택
-> Java 11 / Spring boot / MySQL / JPA / Gradle /
+### 2. [Spring boot & JPA board](http://bit.ly/3WAHLlt)
+> Spring boot & JPA를 이용한 게시판 생성(개인 프로젝트)
+> </br> 기술 스택
+> </br> Java 11 / Spring boot / MySQL / JPA / Gradle
 
-### 3. Spring boot & rest API
-> - Spring boot & rest API 웹페이지 생성(개인 프로젝트)
->   - http://bit.ly/3v98SbC
-> 기술 스택
-> Java 11 / Spring boot / Gradle
+### 3. [Spring boot & rest API](http://bit.ly/3v98SbC)
+> Spring boot & rest API 웹페이지 생성(개인 프로젝트)
+> </br> 기술 스택
+> </br> Java 11 / Spring boot / Gradle
 
-### 4. Algorithm
-> - Algorithm 공부
->   - http://bit.ly/3HRZEYV
+### 4. [Algorithm](http://bit.ly/3HRZEYV)
+> Algorithm 공부
+
 
