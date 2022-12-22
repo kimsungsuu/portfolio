@@ -1,6 +1,11 @@
 # potfolio
 
-## (간략한 자기 소개)
+## Contact
+> - 블로그 : http://bit.ly/3YGuvNX
+> - 깃헙 : http://bit.ly/3YDIXXf
+> - 이메일 : sungsu6524@naver.com
+
+## Intro
 > - 이름 : 김성수
 > - 나이 : 26(1997년생)
 > - 병장 만기 전역
