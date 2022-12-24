@@ -7,6 +7,7 @@
 > - 블로그 : http://bit.ly/3YGuvNX
 > - 깃헙 : http://bit.ly/3YDIXXf
 > - 이메일 : sungsu6524@naver.com
+> - 노션 이력서 : http://bit.ly/3Wl997e
 
 * * *
 
