@@ -54,7 +54,7 @@
 ### 3. [Spring boot & rest API](http://bit.ly/3v98SbC)
 > Spring boot & rest API 웹페이지 생성(개인 프로젝트)</br>
 > </br> 기술 스택
-> </br> Java 11 / Spring boot / Gradle </br></br>
+> </br> Java 11 / Spring boot / Gradle / rest API</br></br>
 > [프로젝트 상세 설명 참고](http://bit.ly/3v98SbC)
 
 ### 4. [Algorithm](http://bit.ly/3HRZEYV)
