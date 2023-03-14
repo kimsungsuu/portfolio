@@ -45,7 +45,7 @@
 </br>
 
 ##  📌 자격증
-> - 정보처리기사 자격증 소유
+> - 정보처리기사
 
 * * *
 
@@ -56,21 +56,21 @@
 > JSP & Servlet을 이용한 게시판 생성(개인 프로젝트)</br>
 > </br> 기술 스택
 > </br> Java 11/ JSP / Servlet / MySQL </br></br>
+> 프로젝트 설명
+> 웹 프로그램에서 기본적으로 사용되는 기능들을 JSP와 Servlet을 사용하여 만든 개인 프로젝트입니다. </br>
+> 인텔리제이 보단 이클립스가 JSP를 용이하게 사용할 수 있기 때문에 이클립스를 사용했습니다. </br>
+> MVC2(Model2) 방식을 사용하여 Model, View, Controller를 분리하여 구현했습니다 </br>
+> 게시글을 저장, 수정, 읽기, 삭제할 수 있는 CRUD 기능을 만들었습니다. </br>
+> 추가적으로 페이지 기능, 검색 기능을 추가하여 구현 가능한 기능을 확장시켰습니다. </br>
 > [프로젝트 상세 설명 참고](http://bit.ly/3Gd1DWn)
 
-### 2. [Spring boot & JPA board](http://bit.ly/3WAHLlt)
-> Spring boot & JPA를 이용한 게시판 생성(개인 프로젝트)</br>
-> </br> 기술 스택
-> </br> Java 11 / Spring boot / MySQL / JPA / Gradle </br></br>
-> [프로젝트 상세 설명 참고](http://bit.ly/3WAHLlt)
-
-### 3. [Spring boot & rest API](http://bit.ly/3v98SbC)
+### 2. [Spring boot & rest API](http://bit.ly/3v98SbC)
 > Spring boot & rest API 웹페이지 생성(개인 프로젝트)</br>
 > </br> 기술 스택
 > </br> Java 11 / Spring boot / Gradle / rest API</br></br>
 > [프로젝트 상세 설명 참고](http://bit.ly/3v98SbC)
 
-### 4. [Algorithm](http://bit.ly/3HRZEYV)
+### 3. [Algorithm](http://bit.ly/3HRZEYV)
 > Algorithm 공부 </br></br>
 > [프로젝트 상세 설명 참고](http://bit.ly/3HRZEYV)
 
