@@ -23,17 +23,21 @@
 >   - 웹 개발 환경설정(Tomcat, DBConnection, web.xml)
 >   - MVC2(Model2) 방식으로 객체 분리
 >   - MySQL을 사용하여 데이터 관리 </br></br>
+>   
 > - [프로젝트 상세 링크](http://bit.ly/3Gd1DWn)
 
 ### 2. [Spring boot & rest API](http://bit.ly/3v98SbC)
-> Spring boot & rest API 웹페이지 생성(개인 프로젝트)</br>
-> </br> 기술 스택
-> </br> Java 11 / Spring boot / Gradle / rest API</br></br>
-> [프로젝트 상세 설명 참고](http://bit.ly/3v98SbC)
+> Spring boot & rest API 블로그 생성(개인 프로젝트)</br>
+> - #### 기술 스택
+>   - Java 11 / Spring boot / Gradle / rest API </br>
+> - #### 프로젝트 상세
+>   - 
+> </br></br>
+> [프로젝트 상세 링크](http://bit.ly/3v98SbC)
 
 ### 3. [Algorithm](http://bit.ly/3HRZEYV)
 > Algorithm 공부 </br></br>
-> [프로젝트 상세 설명 참고](http://bit.ly/3HRZEYV)
+> [프로젝트 상세 링크](http://bit.ly/3HRZEYV)
 
 </br>
 
