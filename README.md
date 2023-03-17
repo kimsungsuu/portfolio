@@ -13,15 +13,17 @@
 ## 📌 프로젝트
 ### 1. [JSP & Servlet](http://bit.ly/3Gd1DWn)
 > JSP & Servlet을 이용한 게시판 생성(개인 프로젝트)</br>
-> </br> 기술 스택
-> </br> Java 11/ JSP / Servlet / MySQL </br></br>
-> 프로젝트 설명
-> 웹 프로그램에서 기본적으로 사용되는 기능들을 JSP와 Servlet을 사용하여 만든 첫 개인 프로젝트입니다. </br>
-> 인텔리제이 보단 이클립스가 JSP를 용이하게 사용할 수 있기 때문에 이클립스를 사용했습니다. </br>
-> MVC2(Model2) 방식을 사용하여 Model, View, Controller를 분리하여 구현했습니다 </br>
-> 게시글을 저장, 수정, 읽기, 삭제할 수 있는 CRUD 기능을 만들었습니다. </br>
-> 추가적으로 페이지 기능, 검색 기능을 추가하여 구현 가능한 기능을 확장시켰습니다. </br>
-> [프로젝트 상세 설명 참고](http://bit.ly/3Gd1DWn)
+> - #### 기술 스택 
+>   - Java 11/ JSP / Servlet / MySQL </br>
+> - #### 프로젝트 상세
+>   - CRUD
+>   - 등록 및 수정시 메시지 출력(alert)
+>   - 페이징
+>   - 검색
+>   - 웹 개발 환경설정(Tomcat, DBConnection, web.xml)
+>   - MVC2(Model2) 방식으로 객체 분리
+>   - MySQL을 사용하여 데이터 관리 </br></br>
+> - [프로젝트 상세 링크](http://bit.ly/3Gd1DWn)
 
 ### 2. [Spring boot & rest API](http://bit.ly/3v98SbC)
 > Spring boot & rest API 웹페이지 생성(개인 프로젝트)</br>
