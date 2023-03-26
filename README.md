@@ -23,8 +23,6 @@
 >   - 웹 개발 환경설정(Tomcat, DBConnection, web.xml)
 >   - MVC2(Model2) 방식으로 객체 분리
 >   - MySQL을 사용하여 데이터 관리 </br></br>
->   
-> - [프로젝트 상세 링크](http://bit.ly/3Gd1DWn)
 
 ### 2. [Spring boot & rest API](http://bit.ly/3v98SbC)
 > Spring boot & rest API 블로그 생성(개인 프로젝트)</br>
@@ -39,13 +37,6 @@
 >     - mockMvc 방식(json)으로 Controller test
 >     - Builder pattern을 사용하여 데이터 생성
 >     - 수정 필드 정보를 갖고 있는 클래스와 실질적인 수정을 수행할 builder 클래스를 분리
-
-> </br></br>
-> [프로젝트 상세 링크](http://bit.ly/3v98SbC)
-
-### 3. [Algorithm](http://bit.ly/3HRZEYV)
-> Algorithm 공부 </br></br>
-> [프로젝트 상세 링크](http://bit.ly/3HRZEYV)
 
 </br>
 
